@@ -45,12 +45,12 @@ body{
     background: #7ed6df;
 }
 
-.violeta{
-    background: #be2edd;
+.rojo{
+    background:#ec1414;
 }
 
-.violeta.light{
-    background: #e056fd;
+.rojo.light{
+    background: #ff6c6c;
 }
 
 .naranja{
